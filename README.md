@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sohangkwd
+# - 👋 Hi, I’m @sohangkwd
 - 👀 I’m interested in Artificial Intelligence, Data Science, Machine Learning, Natural Language Processing and Computer Vision
 - 🌱 I’m currently learning Natural Language Processing and Computer Vision
 - 💞️ I’m looking to collaborate on ...
